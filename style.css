@@ -1,0 +1,28 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+ul{
+	float: left;
+	list-style-type: none;
+}
+ul li a{
+	text-decoration: none;
+	color: #fff;
+	margin-left: 25px;
+}
+.Vector-5 img{
+	float: left;
+	width: 65px;
+    height: auto;	
+}
+.Vector-6 img{
+	float: left;
+	width: 65px;
+    height: auto;	
+}
+.Ellipse 7.6-1 img{
+	float: left;
+	width: 65px;
+    height: auto;	
+}
