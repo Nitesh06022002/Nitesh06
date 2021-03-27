@@ -26,3 +26,49 @@ ul li a{
 	width: 65px;
     height: auto;	
 }
+.Rectangle 6(Stroke-1) img{
+	float: left;
+	width: 65px;
+	height: auto;
+		
+}
+.Polygon img{
+	float: left;
+	width: 65px;
+	height: auto;	
+}
+.Rectangle 19-1{
+	float: left;
+	width: 65px;
+	height: auto;
+	padding: 5px 20px;
+	border: 1px solid #rgb(0,128,0);
+}
+.Vector-9 {
+	float: left;
+	width: 65px;
+	height: auto;
+    padding: 5px 20px;
+	border: 1px solid #rgb(0,128,0);	
+}
+p li a{
+	font-size:50px;
+	color:#fff;
+}
+.Rectangle 8 img{
+	position: relative;
+	width: 300px;
+    height: auto;
+	
+}
+.Rectangle 9 img{
+	position: relative;
+	width: 300px;
+    height: auto;	
+}
+.Vector (Stroke) img{
+	position: relative;
+	width: 300px;
+    height: auto;	
+}
+.
